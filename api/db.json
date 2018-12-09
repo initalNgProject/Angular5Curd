@@ -1,0 +1,76 @@
+{
+  "Employee": [
+    {
+      "id": 1,
+      "EmployeeID": 892,
+      "FirstName": "NAGA9",
+      "LastName": "PILLA5",
+      "EmpCode": "dfs",
+      "Position": "Angular",
+      "Office": "BANG"
+    },
+    {
+      "id": 2,
+      "EmployeeID": 12,
+      "FirstName": "NAGA7",
+      "LastName": "PILLA5",
+      "EmpCode": "dfs",
+      "Position": "Angular js",
+      "Office": "BANG"
+    },
+    {
+      "id": 3,
+      "EmployeeID": 254,
+      "FirstName": "NAGA2",
+      "LastName": "PILLA4",
+      "EmpCode": "dfs",
+      "Position": "Angular",
+      "Office": "BANG1"
+    },
+    {
+      "id": 9,
+      "EmployeeID": 278,
+      "FirstName": "NAGA1",
+      "LastName": "PILLA1",
+      "EmpCode": "dfs",
+      "Position": "Angular",
+      "Office": "BANG"
+    },
+    {
+      "EmployeeID": null,
+      "FirstName": "dfgfdg",
+      "LastName": "gdf",
+      "Position": "hgfh",
+      "EmpCode": "dfgd",
+      "Office": "kyjfgh",
+      "id": 10
+    },
+    {
+      "EmployeeID": null,
+      "FirstName": "nagarjuna1",
+      "LastName": "developer1",
+      "Position": "gfgf",
+      "EmpCode": "560068",
+      "Office": "htt",
+      "id": 11
+    },
+    {
+      "EmployeeID": null,
+      "FirstName": "fgf",
+      "LastName": "fg",
+      "Position": "gfd",
+      "EmpCode": "gfdg",
+      "Office": "gfdgd",
+      "id": 12
+    },
+    {
+      "EmployeeID": null,
+      "FirstName": "raja",
+      "LastName": "rakesh",
+      "Position": "angular 4",
+      "EmpCode": "432",
+      "Office": "chennai",
+      "id": 13
+    }
+  ]
+}
